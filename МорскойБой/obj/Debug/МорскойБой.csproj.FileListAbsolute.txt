@@ -1,0 +1,59 @@
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.config
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\bin\Debug\МорскойБой.pdb
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csprojResolveAssemblyReference.cache
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Game.resources
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Main.resources
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Properties.Resources.resources
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.GenerateResource.Cache
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe
+c:\users\fene4ka\documents\visual studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.pdb
+C:\Users\Fene4ka\Documents\Visual Studio 2013\Projects\МорскойБой\МорскойБой\obj\Debug\МорскойБой.VictroryGame.resources
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.config
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\bin\Debug\МорскойБой.pdb
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Game.resources
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Main.resources
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Properties.Resources.resources
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.VictroryGame.resources
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe
+C:\Users\Alex\Downloads\МорскойБой\МорскойБой\obj\Debug\МорскойБой.pdb
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.config
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\bin\Debug\МорскойБой.pdb
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.AssemblyReference.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.SuggestedBindingRedirects.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Game.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Main.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Properties.Resources.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.VictroryGame.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.GenerateResource.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.CoreCompileInputs.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.pdb
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.manifest
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\bin\Debug\МорскойБой.application
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.TrustInfo.xml
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe.manifest
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\obj\Debug\МорскойБой.application
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.config
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe.manifest
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\bin\Debug\МорскойБой.application
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\bin\Debug\МорскойБой.exe
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\bin\Debug\МорскойБой.pdb
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.AssemblyReference.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.SuggestedBindingRedirects.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Game.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Main.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.Properties.Resources.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.VictroryGame.resources
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.GenerateResource.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.csproj.CoreCompileInputs.cache
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.TrustInfo.xml
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe.manifest
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.application
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.exe
+C:\Users\BOTxWOLF\Desktop\МорскойБой\МорскойБой\МорскойБой\obj\Debug\МорскойБой.pdb
